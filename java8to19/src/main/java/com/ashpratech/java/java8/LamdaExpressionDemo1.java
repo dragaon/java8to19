@@ -19,8 +19,6 @@ public class LamdaExpressionDemo1 {
 				new Car(19082,BRAND.TATA),
 				new Car(10209,BRAND.TATA),
 				new Car(192102,BRAND.BMW));
-		
-		
 	}
 	 
 	public void printCars (List<Car> inventory, CarPrinter cp){
