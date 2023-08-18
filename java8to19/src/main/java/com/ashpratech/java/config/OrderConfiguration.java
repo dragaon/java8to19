@@ -9,6 +9,10 @@ import com.ashpratech.java.model.OrderItem;
 import com.ashpratech.java.model.Payment;
 import com.ashpratech.java.model.consts.PaymentMethod;
 
+
+/**
+ * Order configuraiton 
+ */
 public class OrderConfiguration {
 	
 	private String customerIDPrefix = "CUST";
